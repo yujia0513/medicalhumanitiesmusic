@@ -16,3 +16,5 @@ Type: pop
 
 https://github.com/hskye79/medicalhumanitiesmusic/blob/main/choi_jeongin.md
 There is a similarity that people with mental illness do music
+
+<img scr="./yu_jia_md_IMG.png" alt="image deicting personality disability" style="width:25%;" />
